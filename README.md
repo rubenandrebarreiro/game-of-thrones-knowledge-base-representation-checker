@@ -40,18 +40,14 @@ A project based in **_Knowledge Base Representation_** and **_Logic Programming_
 
 ### Examples of Possible Queries and the Respectively Results
 
-1. What are the _Geographic Coordinates_ of **_FCT NOVA_**?
+1. Who is the **_Mad Queen_**?
    * #### Query:
    > ```
-   > ?- coordinates(fct_nova, X).
-   > ```
-   > or
-   > ```
-   > ?- coordinates(fct_unl, X).
+   > ?- who_is_the_mad_queen(X).
    > ```
    * #### Result:
    > ```
-   > X = "38.661036°N 9.205928°W"
+   > X = daenerys_targaryen
    > ```
 
 ## Screenshots
