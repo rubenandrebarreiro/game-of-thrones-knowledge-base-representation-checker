@@ -1,1 +1,1 @@
-# game-of-thrones-knowledge-base-representation-checker
+# Game of Thrones - Knowledge Base Representation Checker
