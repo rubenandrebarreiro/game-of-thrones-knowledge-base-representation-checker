@@ -1,1 +1,1 @@
-# game-of-thrones-checker
+# game-of-thrones-knowledge-base-representation-checker
