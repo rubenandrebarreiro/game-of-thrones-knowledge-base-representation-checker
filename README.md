@@ -18,7 +18,7 @@
 [![keyword of this version no. 1](https://img.shields.io/badge/keyword-knowledge&nbsp;base-brown.svg)](https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/)
 [![keyword of this version no. 2](https://img.shields.io/badge/keyword-knowledge&nbsp;representation-brown.svg)](https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/)
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-logic-brown.svg)](https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-fct&nbsp;nova-brown.svg)](https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-game&nbsp;of&nbsp;thrones-brown.svg)](https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-prolog-red.svg)](https://en.wikipedia.org/wiki/Prolog)
 [![software used no. 1](https://img.shields.io/badge/software-swish-gold.svg)](https://swish.swi-prolog.org)
