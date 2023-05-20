@@ -2,7 +2,7 @@
 ## Knowledge Base Representation Checker
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/master/imgs/JPGs/banner-1.jpg)
-######  FCT NOVA (Knowledge Base Representation Checker) - Banner #1
+######  Game of Thrones (Knowledge Base Representation Checker) - Banner #1
 
 ***
 
